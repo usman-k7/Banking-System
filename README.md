@@ -45,11 +45,11 @@ A Python-based command-line banking system that simulates essential banking oper
 ```bash
 banking-system/
 │
-├── banking_system.py    # Main program file (account, deposit, withdraw, balance)
-├── accounts.txt         # Stores user account details
-├── transactions.txt     # Logs all transactions (optional / future feature)
-├── requirements.txt     # Python dependencies (if needed)
-└── README.md            # Project documentation
+├── banking_system.py  
+├── accounts.txt        
+├── transactions.txt     
+├── requirements.txt    
+└── README.md            
 
 ```
 ---

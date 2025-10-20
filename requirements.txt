@@ -1,0 +1,4 @@
+# Banking System Project - Requirements
+python>=3.8
+time
+random
